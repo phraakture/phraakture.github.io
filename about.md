@@ -6,7 +6,7 @@ permalink: /about/
 
 <!-- Placeholder. Write a few paragraphs about yourself here. -->
 
-I'm rubai.
+I'm Rubai.
 
 ---
 

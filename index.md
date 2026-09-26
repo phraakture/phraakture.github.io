@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Hi, I'm rubai. This site is my portfolio, blog, and a place for weekly reflections.
+Hi, I'm Rubai. This site is my portfolio, blog, and a place for weekly reflections.
 
 Latest post: [Hello, world](/2026/09/26/hello-world.html).
 

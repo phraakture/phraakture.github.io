@@ -5,12 +5,12 @@ license: MIT
 compatibility: Python 3.9+ (stdlib only) and the Grok Build CLI signed in with `grok login`.
 metadata:
   author: phraakture
-  schedule: Sunday 08:00 local on rubai's machine via launchd or cron (see scripts/install_schedule.sh)
+  schedule: Sunday 08:00 local on Rubai's machine via launchd or cron (see scripts/install_schedule.sh)
 ---
 
 # Weekly Victories
 
-Every day rubai posts a time-lapse of that day on X. Each time-lapse caption is
+Every day Rubai posts a time-lapse of that day on X. Each time-lapse caption is
 already a one-line summary of the day, so a Weekly Victories post is just those
 seven captions, one under each weekday heading. This skill turns that into a
 single command and explains the conventions so the result lands in the right
@@ -33,7 +33,7 @@ If your days are not in Pacific time, change `DEFAULT_TZ` or pass `--tz`.
   **Sunday** morning, not Saturday.
 - **Days are reckoned in `--tz`** (default America/Los_Angeles). A post at
   03:00 UTC Sunday is Saturday evening in that zone and therefore describes Friday.
-- **Hand-written text wins.** If rubai already typed something under a day, keep
+- **Hand-written text wins.** If Rubai already typed something under a day, keep
   it and only fill the days that are still empty (`- `). Pass `--force` only if
   asked to regenerate a day.
 

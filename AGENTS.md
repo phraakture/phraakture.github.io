@@ -1,6 +1,6 @@
-# rubai's Personal Website
+# Rubai's Personal Website
 
-This project is a personal website and blog for rubai, hosted on GitHub Pages at phraakture.github.io. It serves as a portfolio, blog, and repository of personal reflections.
+This project is a personal website and blog for Rubai, hosted on GitHub Pages at phraakture.github.io. It serves as a portfolio, blog, and repository of personal reflections.
 
 ## Project Structure
 
@@ -27,7 +27,7 @@ The script defaults to the public feed for goodreads.com/rubai (user id 72897267
 
 ## Weekly victories from time-lapses
 
-`skills/weekly-victories/` is an agent skill whose script `skills/weekly-victories/scripts/build_weekly_victories.py` fills the week's `_posts/weekly-victories/` post from daily time-lapse posts on X. It searches @rubaitf by default (`DEFAULT_HANDLE` in the script; override with `X_HANDLE` or `--handle`). By default it runs the Grok Build CLI headlessly with the local `grok login` session (no API key); `skills/weekly-victories/scripts/install_schedule.sh` schedules it on rubai's machine every Sunday morning. Read `skills/weekly-victories/SKILL.md` before touching weekly victories.
+`skills/weekly-victories/` is an agent skill whose script `skills/weekly-victories/scripts/build_weekly_victories.py` fills the week's `_posts/weekly-victories/` post from daily time-lapse posts on X. It searches @rubaitf by default (`DEFAULT_HANDLE` in the script; override with `X_HANDLE` or `--handle`). By default it runs the Grok Build CLI headlessly with the local `grok login` session (no API key); `skills/weekly-victories/scripts/install_schedule.sh` schedules it on Rubai's machine every Sunday morning. Read `skills/weekly-victories/SKILL.md` before touching weekly victories.
 
 ## Development Workflows
 
